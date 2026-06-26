@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nanda Gopal M. — Ethical Hacker & Penetration Tester
 
-<!--
-**nandagopalm10/nandagopalm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I break systems to make them unbreachable. Focused on offensive security, vulnerability assessment, and infrastructure hardening.
 
-Here are some ideas to get you started:
+## What I build & Break
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain | Project / Engagement | Stack / Tools |
+| :--- | :--- | :--- |
+| Network Pentesting | AD Infrastructure Audit — Simulated internal network attacks, privilege escalation, and domain takeover | Active Directory, BloodHound, Mimikatz |
+| Web Security | API Vulnerability Assessment — Identified OWASP Top 10 flaws, broken object-level authorization, and injection vectors | Burp Suite, OWASP ZAP, Postman |
+| Cloud Security | AWS/Azure Infrastructure Hardening — Audited cloud environments for misconfigured IAM policies and storage leaks | Scout Suite, Pacu, CloudSploit |
+| Tool Development | Automated Recon Framework — Custom multi-threaded scripts for rapid subdomain and port discovery | Python, Bash, Nmap, Subfinder |
+| IoT / Hardware | Hardware Interface Auditing — Investigated firmware vulnerabilities and communication protocol weaknesses | Wireshark, UART, Binwalk |
+
+## Tech stack
+
+**Offensive Tools:** Burp Suite Professional · Metasploit · Nmap · Wireshark · Hashcat · John the Ripper
+**Cloud & Infrastructure:** AWS Security · Azure Security · Docker · Git
+**Languages & Scripting:** Python · Bash · PowerShell
+**OS & Environments:** Kali Linux · Parrot OS · Linux (Ubuntu)
+
