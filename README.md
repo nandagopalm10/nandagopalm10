@@ -17,5 +17,5 @@
 **Offensive Tools:** Burp Suite Professional · Metasploit · Nmap · Wireshark · Hashcat · John the Ripper
 **Cloud & Infrastructure:** AWS Security · Azure Security · Docker · Git
 **Languages & Scripting:** Python · Bash · PowerShell
-**OS & Environments:** Kali Linux · Parrot OS · Linux (Ubuntu)
+**OS & Environments:** Kali Linux ·· Linux (Ubuntu)
 
