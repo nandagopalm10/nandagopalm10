@@ -7,8 +7,7 @@
 | Domain | Project / Engagement | Stack / Tools |
 | :--- | :--- | :--- |
 | Network Pentesting | AD Infrastructure Audit — Simulated internal network attacks, privilege escalation, and domain takeover | Active Directory, BloodHound, Mimikatz |
-| Web Security | API Vulnerability Assessment — Identified OWASP Top 10 flaws, broken object-level authorization, and injection vectors | Burp Suite, OWASP ZAP, Postman |
-| Cloud Security | AWS/Azure Infrastructure Hardening — Audited cloud environments for misconfigured IAM policies and storage leaks | Scout Suite, Pacu, CloudSploit |
+| Web Security | API Vulnerability Assessment — Identified OWASP Top 10 flaws, broken object-level authorization, and injection vectors | Burp Suite, OWASP  CloudSploit |
 | Tool Development | Automated Recon Framework — Custom multi-threaded scripts for rapid subdomain and port discovery | Python, Bash, Nmap, Subfinder |
 | IoT / Hardware | Hardware Interface Auditing — Investigated firmware vulnerabilities and communication protocol weaknesses | Wireshark, UART, Binwalk |
 
